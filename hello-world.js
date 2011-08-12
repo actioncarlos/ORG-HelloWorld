@@ -2,6 +2,6 @@ alert ("why hello there");
 
 //add our first array here
 var firstArray=new Array();
-myCars[0]="Saab";
-myCars[1]="Volvo";
-myCars[2]="BMW";
+firstArray[0]="First thing";
+firstArray[1]="Second thing";
+firstArray[2]="Third thing";
